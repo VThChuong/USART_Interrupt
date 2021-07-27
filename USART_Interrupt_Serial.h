@@ -8,11 +8,6 @@
 #ifndef USART_INTERRUPT_SERIAL_H_
 #define USART_INTERRUPT_SERIAL_H_
 
-#include <stdint.h>
-#include <avr/io.h>
-#include <avr/interrupt.h>
-
-
 // CPU Freq
 //#define F_CPU 11059200UL
 #define F_CPU 16000000UL
